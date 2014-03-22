@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGoDutch</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <string name="WelcomeInfo">欢迎您使用AA费用小助手！</string>
+    
+    <string name="tvTopTitle">AA费用小助手</string>
+    
+    <string name="appGridTextPayoutAdd">记录消费</string>
+    <string name="appGridTextPayoutManage">查询消费</string>
+    <string name="appGridTextAccountBookManage">账本管理</string>
+    <string name="appGridTextStatisticsManage">统计管理</string>
+    <string name="appGridTextCategoryManage">类别管理</string>
+    <string name="appGridTextUserManage">人员管理</string>
+   
+    <string name="TitleAdd">新建</string>
+    <string name="TitleEdit">修改</string>
+    <string name="ButtonTextSave">保存</string>
+    <string name="ButtonTextCancel">取消</string>
+    <string name="CheckDataTextChineseEnglishNum">%s必须是英文、中文与数字</string>
+     
+    <string name="TipsAddSucceed">保存成功</string>
+    <string name="TipsAddFail">保存失败</string>
+    <string name="TipsDeleteFail">删除失败</string>
+    
+    <string name="MenuTextEdit">修改</string>
+    <string name="MenuTextDelete">删除</string>
+    
+    <string name="etUserNameHint">人员名称</string>
+    <string name="DialogTitleUser">%s人员</string>
+    <string name="DialogTitleDelete">删除提示</string>
+    
+    <string name="ButtonTextYes">是</string>
+    <string name="ButtonTextNo">否</string>
+    
+	<string name="DialogMessageUserDelete">你确定要删除%s用户吗?</string>
+    <string name="DialogMessagePayoutDelete">你确定要删除%s消费记录吗?</string>
+    <string name="DialogMessageCategoryDelete">你确定要删除%s类别吗?</string>
+    
+    <string name="CheckDataTextUserExist">该用户已经存在，请换个用户名称</string>
+   
+</resources>
